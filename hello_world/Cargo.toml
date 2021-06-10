@@ -1,5 +1,5 @@
 [package]
-name = "rush_projects"
+name = "hello_world"
 version = "0.1.0"
 authors = ["kBarbz <kbarbz1995@gmail.com>"]
 edition = "2018"
